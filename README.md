@@ -86,9 +86,9 @@ Created an interactive Power BI dashboard with drill-through filters and KPI tra
 The Power BI dashboard includes:
 
 - 📉 Churn by Contract Type
-- 👥 Total Churned Customers
+- 👥 Churn by Charges
 - 🌐 Churn by Internet Service
-- ⏳ Churn by Tenure
+- ⏳ Churn by Customer Tenure
 - 💳 Churn by Payment Method
 
 ---
