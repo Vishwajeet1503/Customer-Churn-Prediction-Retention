@@ -1,9 +1,9 @@
 # 📊 Customer Churn Prediction & Retention Strategy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-purple?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Querying-orange?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-black?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-black?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/Project-Customer%20Analytics-success?style=for-the-badge" />
 </p>
 
