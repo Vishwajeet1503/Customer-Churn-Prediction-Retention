@@ -117,6 +117,6 @@ Based on the analysis, the following retention strategies were recommended:
 ## 📸 Dashboard Preview
 
 > Add your Power BI dashboard screenshots here
-
+https://github.com/Vishwajeet1503/Customer-Churn-Prediction-Retention/blob/main/Visuals/Customer_Churn_Insights_Image.png
 ```md
-![Dashboard Preview](https://github.com/Vishwajeet1503/Customer-Churn-Prediction-Retention/blob/main/Visuals/Customer_Churn_Insights_Image.png)
+![Dashboard Preview](Customer_Churn_Insights_Image.png)
